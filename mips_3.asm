@@ -51,4 +51,3 @@ Exit:
    #stop program
    li    $v0, 10
    syscall
-#your function start from here
